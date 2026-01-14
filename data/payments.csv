@@ -1,0 +1,9 @@
+payment_id,order_id,payment_date,method,amount
+1,1001,2025-09-01,Transfer,445000
+2,1001,2025-09-01,Transfer,75000
+3,1002,2025-09-02,CreditCard,126000
+4,1004,2025-09-04,Transfer,620000
+5,1006,2025-09-06,CreditCard,720000
+6,1007,2025-09-07,Transfer,1850000
+7,1009,2025-09-09,CreditCard,530000
+8,1010,2025-09-10,Transfer,540000
