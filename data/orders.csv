@@ -1,0 +1,11 @@
+order_id,order_date,customer_id,status,channel
+1001,2025-09-01,1,Delivered,Web
+1002,2025-09-02,2,Delivered,SalesRep
+1003,2025-09-03,3,Cancelled,Marketplace
+1004,2025-09-04,4,Delivered,SalesRep
+1005,2025-09-05,5,Pending,Web
+1006,2025-09-06,1,Delivered,Marketplace
+1007,2025-09-07,6,Delivered,SalesRep
+1008,2025-09-08,7,Pending,Web
+1009,2025-09-09,2,Delivered,Marketplace
+1010,2025-09-10,4,Delivered,Web
