@@ -1,0 +1,12 @@
+order_item_id,order_id,sku,category,qty,unit_price
+1,1001,MON-24-IPS,Monitors,2,185000
+2,1001,KBD-MECH,Peripherals,1,75000
+3,1002,MSE-WLS,Peripherals,3,42000
+4,1003,CPU-I5-12,Components,1,480000
+5,1004,SW-24P-NET,Networking,2,310000
+6,1005,KBD-MEM,Peripherals,2,28000
+7,1006,CPU-I7-13,Components,1,720000
+8,1007,SRV-RACK-1U,Infrastructure,1,1850000
+9,1008,MSE-GAM,Peripherals,1,65000
+10,1009,MON-27-QHD,Monitors,2,265000
+11,1010,FW-UTM-S,Security,1,540000
